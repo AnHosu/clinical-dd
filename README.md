@@ -130,7 +130,7 @@ The problem then becomes one of extrapolating or imputing missing data. Here is 
  - Conditioned the model and done the imputation
  - Estimated leave one out cross validation generalisation
 
- The code is in `site_selection.py`.
+ The code is in `site_selection.ipynb`.
 
  Here are examples of additional things one could do:
   - Structured feature selection
